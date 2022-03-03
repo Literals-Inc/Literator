@@ -1,0 +1,99 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Literator
+import Combine
+import CommonCrypto
+import CoreMedia
+import Foundation
+import QuartzCore
+import ReplayKit
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import os
+@_hasMissingDesignatedInitializers public class LiteratorClient {
+  public static let shared: Literator.LiteratorClient
+  public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication, _ config: Literator.LiteratorConfig = LiteratorConfig.builder().build())
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class LiteratorConfig {
+  @_hasMissingDesignatedInitializers public class LiteratorConfigBuilder {
+    public func mode(_ mode: Swift.String) -> Literator.LiteratorConfig.LiteratorConfigBuilder
+    public func build() -> Literator.LiteratorConfig
+    @objc deinit
+  }
+  public static func builder() -> Literator.LiteratorConfig.LiteratorConfigBuilder
+  @objc deinit
+}
+@available(iOS 8.0, *)
+extension UIKit.UIWindow {
+  @_Concurrency.MainActor(unsafe) public func swizzle()
+}
+extension UIKit.UIWindow {
+  @objc @_Concurrency.MainActor(unsafe) dynamic public func swizzledSendEvent(_ event: UIKit.UIEvent)
+}
+@objc @_hasMissingDesignatedInitializers @available(iOSApplicationExtension, unavailable)
+@_Concurrency.MainActor(unsafe) public class ToastView : UIKit.UIView {
+  public enum TextAlignment {
+    case left
+    case center
+    case right
+    public static func == (a: Literator.ToastView.TextAlignment, b: Literator.ToastView.TextAlignment) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum Position {
+    case top
+    case bottom
+    public static func == (a: Literator.ToastView.Position, b: Literator.ToastView.Position) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public var bounds: CoreGraphics.CGRect {
+    @_Concurrency.MainActor(unsafe) @objc get
+    @_Concurrency.MainActor(unsafe) @objc set
+  }
+  @_Concurrency.MainActor(unsafe) public var autoHide: Swift.Bool
+  @_Concurrency.MainActor(unsafe) public var displayTime: Swift.Double
+  @_Concurrency.MainActor(unsafe) public var showAnimationDuration: Swift.Double
+  @_Concurrency.MainActor(unsafe) public var hideAnimationDuration: Swift.Double
+  @_Concurrency.MainActor(unsafe) public var hideOnTap: Swift.Bool
+  @_Concurrency.MainActor(unsafe) public var textAlignment: Literator.ToastView.TextAlignment {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var titleTextColor: UIKit.UIColor {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var darkBackgroundColor: UIKit.UIColor {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var lightBackgroundColor: UIKit.UIColor {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public init(title: Swift.String, titleFont: UIKit.UIFont = .systemFont(ofSize: 13, weight: .regular), subtitle: Swift.String? = nil, subtitleFont: UIKit.UIFont = .systemFont(ofSize: 11, weight: .light), icon: UIKit.UIImage? = nil, iconSpacing: CoreGraphics.CGFloat = 16, position: Literator.ToastView.Position = .top, overideBackgroundColor: UIKit.UIColor? = nil, onTap: (() -> ())? = nil)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
+  @available(iOS 10.0, *)
+  @_Concurrency.MainActor(unsafe) public func show(haptic: UIKit.UINotificationFeedbackGenerator.FeedbackType? = nil)
+  @_Concurrency.MainActor(unsafe) public func show()
+  @_Concurrency.MainActor(unsafe) public func update(title: Swift.String? = nil, subtitle: Swift.String?, color: UIKit.UIColor? = nil)
+  @_Concurrency.MainActor(unsafe) public func hide(after time: Foundation.TimeInterval = 0.0)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
+  @objc deinit
+}
+@available(iOSApplicationExtension, unavailable)
+extension Literator.ToastView.TextAlignment : Swift.Equatable {}
+@available(iOSApplicationExtension, unavailable)
+extension Literator.ToastView.TextAlignment : Swift.Hashable {}
+@available(iOSApplicationExtension, unavailable)
+extension Literator.ToastView.Position : Swift.Equatable {}
+@available(iOSApplicationExtension, unavailable)
+extension Literator.ToastView.Position : Swift.Hashable {}

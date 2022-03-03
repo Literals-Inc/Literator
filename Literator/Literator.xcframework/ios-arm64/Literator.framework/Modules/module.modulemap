@@ -1,0 +1,4 @@
+framework module Literator {
+  header "Literator-Swift.h"
+  requires objc
+}
