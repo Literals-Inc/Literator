@@ -188,7 +188,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreGraphics;
 @import UIKit;
 #endif
 
@@ -208,18 +207,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-
-@class UITraitCollection;
-@class NSCoder;
-
-SWIFT_CLASS("_TtC9Literator9ToastView") SWIFT_AVAILABILITY(ios_app_extension,unavailable)
-@interface ToastView : UIView
-@property (nonatomic) CGRect bounds;
-- (void)layoutSubviews;
-- (void)traitCollectionDidChange:(UITraitCollection * _Nullable)previousTraitCollection;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-@end
 
 @class UIEvent;
 
