@@ -13,7 +13,6 @@ import UIKit
 import _Concurrency
 import os
 @_hasMissingDesignatedInitializers public class LiteratorClient {
-  public static let shared: Literator.LiteratorClient
   public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication, _ config: Literator.LiteratorConfig = LiteratorConfig.builder().build())
   public static func sendAnalytics<T>(tag: Swift.String? = nil, eventName: Swift.String, properties: T) where T : Swift.Encodable
   @objc deinit

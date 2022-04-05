@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  literator_version = "1.0.0"
+  literator_version = "1.0.1"
   deployment_version = '13.0'
   swift_version = '5.5'
   
