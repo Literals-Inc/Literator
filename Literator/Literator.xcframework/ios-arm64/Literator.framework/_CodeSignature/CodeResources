@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7L5Ibp1UUk3vXn6WYEIlur9FPFw=
+		yunCdJ19QP3fNQYXjDXAaF/OyFc=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		9HSftsJt54ZUmiKM8v3BWZ8Ifrg=
+		L/YP6LCk3qDxKnJT3CZERUfbAeo=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		R1FrHLUy2QN++p+sgoGsMBU44fY=
+		qKO36L/cGnR2CCbV0R+7adM7gJA=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		9HSftsJt54ZUmiKM8v3BWZ8Ifrg=
+		L/YP6LCk3qDxKnJT3CZERUfbAeo=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		R1FrHLUy2QN++p+sgoGsMBU44fY=
+		qKO36L/cGnR2CCbV0R+7adM7gJA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/jd7EYVXLwxN0NfpQkrt8J2wLtKZEJUqaZhlltLaqw0=
+			NDxAnspYRWqy48t53I//TrQuDQoAfwQr37ob/PFq97Q=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9SG8L5sMYcNaO3syvoBPGF1MS2pfWMAeomyokN0nnOw=
+			KBBLb/+SC8LXP0rNwSCfWmJ0mTlP8FHd7x71nsIwsv4=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/jd7EYVXLwxN0NfpQkrt8J2wLtKZEJUqaZhlltLaqw0=
+			NDxAnspYRWqy48t53I//TrQuDQoAfwQr37ob/PFq97Q=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9SG8L5sMYcNaO3syvoBPGF1MS2pfWMAeomyokN0nnOw=
+			KBBLb/+SC8LXP0rNwSCfWmJ0mTlP8FHd7x71nsIwsv4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

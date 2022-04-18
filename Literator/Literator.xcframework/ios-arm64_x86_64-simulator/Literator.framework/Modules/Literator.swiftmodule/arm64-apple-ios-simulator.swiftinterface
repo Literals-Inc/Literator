@@ -14,7 +14,7 @@ import _Concurrency
 import os
 @_hasMissingDesignatedInitializers public class LiteratorClient {
   public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication, _ config: Literator.LiteratorConfig = LiteratorConfig.builder().build())
-  public static func sendAnalytics<T>(tag: Swift.String? = nil, eventName: Swift.String, properties: T) where T : Swift.Encodable
+  public static func sendAnalytics<T>(eventName: Swift.String, properties: T, tag: Swift.String? = nil) where T : Swift.Encodable
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class LiteratorConfig {
