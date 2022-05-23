@@ -217,6 +217,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @end
 
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
@@ -439,6 +440,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @interface UIWindow (SWIFT_EXTENSION(Literator))
 - (void)swizzledSendEvent:(UIEvent * _Nonnull)event;
 @end
+
 
 
 #if __has_attribute(external_source_symbol)

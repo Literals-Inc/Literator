@@ -13,22 +13,19 @@ import UIKit
 import _Concurrency
 import os
 @_hasMissingDesignatedInitializers public class LiteratorClient {
-  public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication, _ config: Literator.LiteratorConfig = LiteratorConfig.builder().build())
+  public static var config: Literator.LiteratorConfig {
+    get
+  }
+  public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication)
   public static func sendAnalytics<T>(eventName: Swift.String, properties: T, tag: Swift.String? = nil) where T : Swift.Encodable
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class LiteratorConfig {
-  @_hasMissingDesignatedInitializers public class LiteratorConfigBuilder {
-    public func mode(_ mode: Swift.String) -> Literator.LiteratorConfig.LiteratorConfigBuilder
-    public func build() -> Literator.LiteratorConfig
-    @objc deinit
+  public var networkLoggingEnabled: Swift.Bool {
+    get
+    set
   }
-  public static func builder() -> Literator.LiteratorConfig.LiteratorConfigBuilder
   @objc deinit
-}
-@available(iOS 8.0, *)
-extension UIKit.UIWindow {
-  @_Concurrency.MainActor(unsafe) public func swizzle()
 }
 extension UIKit.UIWindow {
   @objc @_Concurrency.MainActor(unsafe) dynamic public func swizzledSendEvent(_ event: UIKit.UIEvent)
