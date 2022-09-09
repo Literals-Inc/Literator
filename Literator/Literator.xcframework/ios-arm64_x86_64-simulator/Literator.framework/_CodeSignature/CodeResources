@@ -6,59 +6,35 @@
 	<dict>
 		<key>Headers/Literator-Swift.h</key>
 		<data>
-		UzOJK7bddD5Jzo/RoViA00EC5co=
+		QAHZT+H64DKDLefsoSgQHGrt0zs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+JKMyvtn9TqKicjfU3JoM+v2DM0=
+		I2LSqG7gp34derZ1ORFd4irX+Vk=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		w8honcvdXkKHgqBU0Ho4v4sy1SE=
+		I/1/Num8bNTs8uWu0a5AnQnexII=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		urtMi8ldZNNGN9bQu8BR0Yb6tqc=
+		v/5NRy7pP4aqwoNHjcgzPmt5EVQ=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZvK/L3uyJek+/L4vVrGzDB1wICw=
-		</data>
-		<key>Modules/Literator.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		w8honcvdXkKHgqBU0Ho4v4sy1SE=
-		</data>
-		<key>Modules/Literator.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		urtMi8ldZNNGN9bQu8BR0Yb6tqc=
-		</data>
-		<key>Modules/Literator.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		ZvK/L3uyJek+/L4vVrGzDB1wICw=
+		yESPQW+i33Zi11pOKlqVsDJWWuE=
 		</data>
 		<key>Modules/Literator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dFSbLm+bNUxCYvM+/sPyYaNopD8=
+		4fPu0VZVOA2ST0PgJviBz7U18gc=
 		</data>
 		<key>Modules/Literator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hmU0TP9yxJeRRzCgwGphVhGUTe0=
+		s7QcbUDB1dv1dLM1Jx2qjs6J4Wg=
 		</data>
 		<key>Modules/Literator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yttJl++EzygMNQ+NJAnMDgmk3m0=
-		</data>
-		<key>Modules/Literator.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		dFSbLm+bNUxCYvM+/sPyYaNopD8=
-		</data>
-		<key>Modules/Literator.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		hmU0TP9yxJeRRzCgwGphVhGUTe0=
-		</data>
-		<key>Modules/Literator.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		yttJl++EzygMNQ+NJAnMDgmk3m0=
+		gUIORmk2evH7b4uu17siOdZPoRo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,91 +47,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hjoYqRGMi09YpVbHJxAz66K1RN5jeV7SpB0GVry4PDo=
+			g8PysqtzeihWAm8r2wr1a8ILweuJBEZcZ7PTBO1RWWM=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Xv74F5lxlu6fkp94fR7KyzSqn18xeo3TsWMT4o06Fc=
+			5zxSNx9E87xQpczT5VA5FGFPQ1Bm2aXy2yHp6jTZEes=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nv6V4bJQ1jYF8eDf/Ily9oS3dUvynq0quU7pPywpNQU=
+			fHkE0B6Dgc7UCk1DTWbtzYlkk+h4VYq3TMhcCV+e6nM=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jFmjljML2iXnSP9XDJVoLiQOLxBolpNiBozQmh+SGso=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1Xv74F5lxlu6fkp94fR7KyzSqn18xeo3TsWMT4o06Fc=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Nv6V4bJQ1jYF8eDf/Ily9oS3dUvynq0quU7pPywpNQU=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jFmjljML2iXnSP9XDJVoLiQOLxBolpNiBozQmh+SGso=
+			kS2Q3Qt6TBFO+6DJI6z/hP24T8Q6YC3VqgTK+Dys8Xc=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z2F8n/0i6O9T2FQBDBBNOmKjnROypEyrFAX2q3MWG5M=
+			WqyModdxS4JtLpSl7ZqugfE9WP1CcWde1kjuZeHyNnA=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7tr4p7WRdzlesBAxwTaO3TlqlA+U16ucNKdXc3/IPYE=
+			+IidvMGwNwTlX5xOOMwSxkAomQfHZKyE61OFnn5zN+k=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o3j5KPkzl96bM935Pz2cTFyes9CDV+nZlYLpHSLBAn0=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z2F8n/0i6O9T2FQBDBBNOmKjnROypEyrFAX2q3MWG5M=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7tr4p7WRdzlesBAxwTaO3TlqlA+U16ucNKdXc3/IPYE=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			o3j5KPkzl96bM935Pz2cTFyes9CDV+nZlYLpHSLBAn0=
+			YZVC0rH8zLN7iTLnGt9lD1pt3pD+dWdRg57SghCqt24=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

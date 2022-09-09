@@ -6,35 +6,23 @@
 	<dict>
 		<key>Headers/Literator-Swift.h</key>
 		<data>
-		/cxRSfwSasuzYW2ENSxcmDe4W0I=
+		2CxnSxM7CvASwvVGilzUy4bzH90=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KUq49Sx6syY7f9lmdB942rn/1I8=
+		jtstaRynWUfhSp4GlF6qzlStuns=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		LStLvxD1lRlb+KB+E3SZW0Hjz9o=
+		xDd6PkfF9u/KTFwAuXluw06bspU=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+LgF4LamgbQdLpQLs2jk5bkA4u4=
+		xCsXbX5x1JQJNtQA3De5wEOQIHQ=
 		</data>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bxHjuQvVvnum4O/bq+Y2rrYJcrg=
-		</data>
-		<key>Modules/Literator.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		LStLvxD1lRlb+KB+E3SZW0Hjz9o=
-		</data>
-		<key>Modules/Literator.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		+LgF4LamgbQdLpQLs2jk5bkA4u4=
-		</data>
-		<key>Modules/Literator.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		bxHjuQvVvnum4O/bq+Y2rrYJcrg=
+		V6ZNzRhQ0lpYgP0mWbykCNBRREw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,49 +35,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8LCB8T/h5x2tsUswGivY+niRoNhp4lDPBYlBUT0JZrk=
+			y5My+ofNtZST/DDKtODY6NDTJX73dUnRmxDxeITRid0=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iAJ/pGSdCvvfuN6+YToeEgGk2JpdEO68LKQNLzlCZW4=
+			EqaMbmWM9B+jPYQ7u5L1AZqTvY4rmFm7EqBF62JDkJo=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			96wMhxZMTGEsPJcMEQM/hh/P/6VXwitiPotybrf9ssw=
+			23yPn18UWKL1Z/KxBNKMbw+1J++IBGWOWK4i6X+NmF8=
 			</data>
 		</dict>
 		<key>Modules/Literator.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LDRgMVgUUpBYt3Co7Ws/pQSUSiZODxpJHlNx8vp1dww=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iAJ/pGSdCvvfuN6+YToeEgGk2JpdEO68LKQNLzlCZW4=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			96wMhxZMTGEsPJcMEQM/hh/P/6VXwitiPotybrf9ssw=
-			</data>
-		</dict>
-		<key>Modules/Literator.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LDRgMVgUUpBYt3Co7Ws/pQSUSiZODxpJHlNx8vp1dww=
+			QBg8dND0i73r3cqrJxjdjY69LWiOOqzNO3A3jzQhfm8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
