@@ -13,17 +13,19 @@ import UIKit
 import _Concurrency
 import os
 @_hasMissingDesignatedInitializers public class LiteratorClient {
-  public static var config: Literator.LiteratorConfig {
-    get
-  }
-  public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication)
+  public static func start(_ accessToken: Swift.String, _ application: UIKit.UIApplication, _ config: Literator.LiteratorConfig = LiteratorConfig.builder().build())
   public static func sendAnalytics<T>(eventName: Swift.String, properties: T, tag: Swift.String? = nil) where T : Swift.Encodable
   @objc deinit
 }
-@_hasMissingDesignatedInitializers public class LiteratorConfig {
-  public var networkLoggingEnabled: Swift.Bool {
-    get
-    set
+@_hasMissingDesignatedInitializers final public class LiteratorConfig {
+  public static func defaultConfig() -> Literator.LiteratorConfig
+  public static func builder() -> Literator.LiteratorConfig.ConfigBuilder
+  @_hasMissingDesignatedInitializers public class ConfigBuilder {
+    public func build() -> Literator.LiteratorConfig
+    public func customBuildIdentifier(_ buildIdentifier: Swift.String?) -> Literator.LiteratorConfig.ConfigBuilder
+    public func useDeviceAsBuildIdentifier() -> Literator.LiteratorConfig.ConfigBuilder
+    public func enableNetworkingLogging(_ enable: Swift.Bool) -> Literator.LiteratorConfig.ConfigBuilder
+    @objc deinit
   }
   @objc deinit
 }
